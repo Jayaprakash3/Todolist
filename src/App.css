@@ -1,0 +1,9 @@
+.Todo-App h1{
+    color:white;
+    text-align:center;
+}
+.Todo-App span{
+    color:lightslategray;
+    font-size:18px;
+    text-align:center;
+}
